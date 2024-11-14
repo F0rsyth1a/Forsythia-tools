@@ -1,0 +1,27 @@
+# 忽略所有的 .exe 和 .json 文件
+*.exe
+*.json
+
+# 忽略操作系统生成的文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 忽略编译生成的文件
+*.o
+*.a
+*.out
+node_modules/
+__pycache__/
+*.class
+
+# 忽略 IDE 或编辑器生成的文件
+.vs/
+.idea/
+.vscode/
+.project
+
+# 忽略临时文件和日志文件
+*.log
+*.tmp
+ 
