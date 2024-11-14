@@ -1,3 +1,6 @@
+Install:
+scoop install https://github.com/F0rsyth1a/forsythia-tools/releases/latest/download/ftool.json 
+
 Usage: ftool <action>
 Actions:
   template <path>       Setting template path
