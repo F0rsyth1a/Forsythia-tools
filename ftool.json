@@ -1,0 +1,10 @@
+{
+    "version": "0.1",
+    "url": "https://github.com/F0rsyth1a/forsythia-tools/releases/download/v0.1/ftool.exe",
+    "hash": "ed2942aea2c5846aad5cab64637807c936e9070e8cf046aafee63ce26ffa5761",
+    "bin": "ftool.exe",
+    "checkver": {
+      "github": "https://github.com/F0rsyth1a/forsythia-tools"
+    }
+}
+  
